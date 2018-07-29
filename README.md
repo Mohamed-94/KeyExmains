@@ -23,18 +23,13 @@
 
 ## About
  
-This program is drawn manually to simulate the electronic clock, basically it can be used for various time benefits, but the main task actually was just to draw it manually!! with just the 'Code'..
-
-it has an analog clock embedded with the original one as well.
-
 <h4>
 Tasks:
 </h4>
- -Displaying local Date and Time
+ -Display all keys that has been clicked
  
- -Using the C# timer 
+ -Disply various informations relevent to any key.
  
- -Match graphics with timer and time
 
 
 ## Usage
