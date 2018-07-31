@@ -15,9 +15,8 @@
 </p>
 
 <div align="center">
-
- ![keyexmains](https://user-images.githubusercontent.com/38832580/43362006-9751bdfa-92d7-11e8-83fb-97aa3b2688be.gif)
-
+ 
+  ![screen-recording-7-31-2018-10-21-33-pm-](https://user-images.githubusercontent.com/38832580/43492906-2459d578-9523-11e8-9234-ebd1f69b0c6e.gif)
 
 </div>
 
